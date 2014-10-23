@@ -17,6 +17,7 @@
 # When the loop is finished, print "Who do we appreciate?"
 # Remember how range can be used to create the list [2,4,6,8]
 # When complete, commit to github and submit a pull request!
+
 keepGoing = True
 aList = [2,4,6,8,'Who do we appreciate?']
 for x in aList:
@@ -25,4 +26,3 @@ for x in aList:
         print x
     else:
         keepGoing = False
-    
